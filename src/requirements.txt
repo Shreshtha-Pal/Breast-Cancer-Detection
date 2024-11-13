@@ -1,0 +1,8 @@
+kaggle
+matplotlib
+numpy
+opencv-python
+pandas
+pydot
+scikit-learn
+tqdm
